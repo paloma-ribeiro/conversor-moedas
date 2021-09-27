@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto Mono", monospace;
     min-height: 400px;
-    background-image: url("img/moedas.png");
+    background-image: url("moedas.png");
     background-color: #000000;
     background-size: 40vh;
     background-position: center bottom;
